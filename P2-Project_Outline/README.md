@@ -7,7 +7,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This web page will be for users looking for lawn services. They will be able to see who we are and get to know the workers. As well as get to know what type of services we do and get free estimates. In the section of our service break down we will tell you about our equipment, what all would be included in the services, and not be included. There will be a estimate section where you fill out some basic information about your lot or house that you are looking to get worked on. This section will be where you can choose a basic mow, power wash, retaining wall or a bush/tree removal. The user will be able to create a log in to keep track of inquiries they have submitted, and also to keep track of when they last mulched their yard/ what color, or when their house was last powerwashed. 
+
+The idea came from my husband looking for a website that can be more hands on and link to his facebook account so people can get more information on the company and start the process of getting an estimate since we dont have phone service at our house. Another reason I personaly felt like this is a project I want to take on is becasue this seem to be like a realistic situation I could come across on how to make things function properly. Suppose there is an error on someones current site then I will hopefuly have some background on the process of actually creating a website with depth and be able to get to work more with JavaScript and React.
+
 ### Features
 1. User log in:
     - Users can keep track of previous inquiries and submissions. 
@@ -36,9 +39,11 @@ JavaScript
 React or Angular
 JSON
 Node
+
 ### What I'll Have to Learn
 1. React i will have to figure out how to use this feature since we have touched Angular I would like to experience react as well.
 2. figureing out how to get a google map API to the page so that they can draw on it...
 3. figuring out how i will want to do my lay out.
+
 ### Project Tracker
 https://trello.com/b/RrSiOu91/sunshine-cuts-and-cleaning
